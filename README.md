@@ -21,5 +21,6 @@ jupyter notebook search_ranking.ipynb
 ## References
 1. Wikipedia, The Free Encyclopedia: 40 articles used as the corpus (titles and URLs in `data/articles.json`). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Retrieved 2026-10-23.
 2. [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page): used to download the articles.
+3. Paul Jaccard, "Étude comparative de la distribution florale dans une portion des Alpes et du Jura", 1901. See also [Wikipedia: Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index).
 
 ## Tools used
