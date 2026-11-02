@@ -52,7 +52,7 @@ The limitations of the experiment are described in section 8 of the notebook.
 2. [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page): used to download the articles.
 3. Paul Jaccard, "Étude comparative de la distribution florale dans une portion des Alpes et du Jura", 1901. See also [Wikipedia: Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index).
 4. Karen Spärck Jones, "A statistical interpretation of term specificity and its application in retrieval", Journal of Documentation, 1972. See also [Wikipedia: tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
-5. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze, "Introduction to Information Retrieval", Cambridge University Press, 2008, chapters 1, 6 and 19. [Online version](https://nlp.stanford.edu/IR-book/).
+5. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze, "Introduction to Information Retrieval", Cambridge University Press, 2008, chapters 1, 6, 8 and 19. [Online version](https://nlp.stanford.edu/IR-book/).
 6. [Wikipedia: Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality).
 7. Fabian Pedregosa et al., "Scikit-learn: Machine Learning in Python", Journal of Machine Learning Research 12, 2011. See also [scikit-learn User Guide: Tf-idf term weighting](https://scikit-learn.org/stable/modules/feature_extraction.html#tfidf-term-weighting).
 8. Stephen Robertson, Hugo Zaragoza, "The Probabilistic Relevance Framework: BM25 and Beyond", Foundations and Trends in Information Retrieval 3(4), 2009. See also [Wikipedia: Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25).
